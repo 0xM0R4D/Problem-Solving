@@ -1,5 +1,5 @@
-//problem name: milk factory-bronze-usaco guide
-//problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=940 
+//Problem: milk factory - Bronze - Usaco
+//Problem link: http://www.usaco.org/index.php?page=viewproblem2&cpid=940 
 #include <iostream>
 #include <vector>
 #include <set>
