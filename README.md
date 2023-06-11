@@ -1,1 +1,3 @@
 # Problem-Solving
+Some problem solving sites dont store problems solutions(submissions) sush as UVA, USACO...    
+So i created this repositery to store my some solutions that contains tips that may need at another time or help others.
